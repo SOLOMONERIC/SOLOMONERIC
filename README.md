@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @SOLOMONERIC
 - 👀 I’m interested in SOFTWARE ENGINEERING
-- 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning FULL STACK WEB DEV
 - 📫 How to reach me @solomoneric112@gmail.com
-- 😄 Pronouns: SENPAI
-- ⚡ Fun fact: 
+
 
 <!---
 SOLOMONERIC/SOLOMONERIC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
